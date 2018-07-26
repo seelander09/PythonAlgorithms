@@ -1,3 +1,5 @@
+x = 3
+
 # Finds the smallest value in an array
 def findSmallest(arr):
   # Stores the smallest value
